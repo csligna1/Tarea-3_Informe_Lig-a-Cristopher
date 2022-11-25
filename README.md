@@ -288,19 +288,33 @@ https://www.canva.com/design/DAFSlI3EjcQ/-AFhAdVWkgWAo6puVNvBvQ/view?utm_content
 
 **15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
 
+[![8.jpg](https://i.postimg.cc/RZ0SPnBZ/8.jpg)](https://postimg.cc/ppgMrrrw)
+
 **17. ¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?**
+
+[![9.jpg](https://i.postimg.cc/NMRBy61p/9.jpg)](https://postimg.cc/BLZdk17K)
 
 **19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.**
 
+[![10.jpg](https://i.postimg.cc/15mstN4r/10.jpg)](https://postimg.cc/V5V3ZvqJ)
+
 **21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?**
+
+[![11.jpg](https://i.postimg.cc/qqjfnjgX/11.jpg)](https://postimg.cc/tnZmGd3Y)
 
 **SECCIÓN 6–5 APLICACIÓN DE LA LEY DE OHM**
 
 **23. Tres resistores de 33ohms están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente su ministrada por la fuente?**
 
+[![12.jpg](https://i.postimg.cc/HxgFhfy9/12.jpg)](https://postimg.cc/d75W7Nnh)
+
 **25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 ohms, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie**
 
+[![13.jpg](https://i.postimg.cc/3NbSY6d6/13.jpg)](https://postimg.cc/JHZcQp3c)
+
 **27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?**
+
+[![14.jpg](https://i.postimg.cc/KjdP9yKZ/14.jpg)](https://postimg.cc/T5J5wFqS)
 
 **29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.**
 
