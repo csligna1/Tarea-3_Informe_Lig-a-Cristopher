@@ -4,14 +4,14 @@
 
 **1.1. Objetivo General:**
 
-Implementar la ley de ohm, y la potencia, en circuitos eléctricos mediante cálculos algebraicos, analizando cada uno de sus componentes, y verificando sus resultados, como bases para la aplicación en la práctica posterior del laboratorio.
+Emplear la ley de ohm, en el análisis de circuitos, utilizando las definiciones antes ya vistas, para el desarrollo de proyectos de ingeniería, comprendiendo su funcionamiento con aparatos de medición, y comprobando sus diferentes tipos de errores.
 
 
 **1.2. Objetivos Específicos:**
 
-Definir conceptos eléctricos, complementando la teoría de la electrónica, en el análisis y comportamiento de un circuito.
+Reconocer conceptos y definiciones eléctricas, para el análisis y armado de circuitos en el protobard.
 
-Aprender a localizar fallas eléctricas mediante, el análisis, planificación y medición en un circuito defectuoso.
+Aprender a localizar fallas elécrtricas en circuitos serie - paralelo, mediante la corriente, voltaje y resistencia.
 
 
 **2. MARCO TEÓRICO (RESUMEN)**
@@ -367,6 +367,23 @@ https://www.canva.com/design/DAFSlI3EjcQ/-AFhAdVWkgWAo6puVNvBvQ/view?utm_content
 **49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si exis te un corto entre las puntas 3 y 4:**
 
 [![25.jpg](https://i.postimg.cc/HjDSrM94/25.jpg)](https://postimg.cc/tnkdfYfY)
+
+**4. VIDEO**
+
+
+
+**5. CONCLUSIONES**
+
+Se puede concluir que un circuito eléctrico, puede ser muy complejo aun siendo, muy pequeño y de excasos componente eléctricos, debido a que al realizar mediciones o cálculos, se pueden medir la eficiencia de cada uno de ellos, calculando su porcentaje de error, y ver su comportamiento al aumentar y disminuir cada magnitud física.
+
+Tambien algo importante, que tener en cuenta para no dañar los componentes eléctricos, es siempre verificar que potencia puede aguantar, es decir, si colocamos una potencia mayor a la potencia nominal que este componente tiene, se calentará en exceso, y se terminará dañanado, variando las unidades físicas del circuito, y no funcionanddo correctamente.
+
+**6. BIBLIOGRAFÍA**
+
+
+
+
+
 
 
 
