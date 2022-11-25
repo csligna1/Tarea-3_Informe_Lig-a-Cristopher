@@ -318,33 +318,55 @@ https://www.canva.com/design/DAFSlI3EjcQ/-AFhAdVWkgWAo6puVNvBvQ/view?utm_content
 
 **29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.**
 
+[![15.jpg](https://i.postimg.cc/MGFmcRWM/15.jpg)](https://postimg.cc/gw3ZQxLm)
+
 **SECCIÓN 6–6 FUENTES DE CORRIENTE EN PARALELO**
 
 **31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.**
+
+[![16.jpg](https://i.postimg.cc/g0ZnD6V6/16.jpg)](https://postimg.cc/JyRr70d1)
 
 **SECCIÓN 6–7 DIVISORES DE CORRIENTE**
 
 **33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81**
 
+[![17.jpg](https://i.postimg.cc/fyTz639C/17.jpg)](https://postimg.cc/G8VnDmzT)
+
 **35. Determine todos los valores de resistor en la figura 6-83. RT 5 773 ohms.**
 
+[![18.jpg](https://i.postimg.cc/t4VqQGYK/18.jpg)](https://postimg.cc/FYN53qbp)
+
 **37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 ohms de escala completa entre la derivación para realizar la medición.**
+
+[![19.jpg](https://i.postimg.cc/kG4CTk0h/19.jpg)](https://postimg.cc/WFQx3fbM)
 
 **SECCIÓN 6–8 POTENCIA EN CIRCUITOS EN PARALELO**
 
 **39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.**
 
+[![20.jpg](https://i.postimg.cc/SsZFYgnL/20.jpg)](https://postimg.cc/njQw6YYM)
+
 **41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.**
+
+[![21.jpg](https://i.postimg.cc/dQxcqSPw/21.jpg)](https://postimg.cc/LhLbDD8b)
 
 **SECCIÓN 6–10 LOCALIZACIÓN DE FALLAS**
 
 **43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?**
 
+[![22.jpg](https://i.postimg.cc/RZrrt6ZY/22.jpg)](https://postimg.cc/BXCw9vD5)
+
 **45. ¿Qué está mal con el circuito de la figura 6-86**
+
+[![23.jpg](https://i.postimg.cc/7Y2dqHnn/23.jpg)](https://postimg.cc/F7hDZQqY)
 
 **47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.**
 
+[![24.jpg](https://i.postimg.cc/4dy2qs3t/24.jpg)](https://postimg.cc/dkM9TMrt)
+
 **49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si exis te un corto entre las puntas 3 y 4:**
+
+[![25.jpg](https://i.postimg.cc/HjDSrM94/25.jpg)](https://postimg.cc/tnkdfYfY)
 
 
 
