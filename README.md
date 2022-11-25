@@ -374,11 +374,13 @@ https://www.canva.com/design/DAFSlI3EjcQ/-AFhAdVWkgWAo6puVNvBvQ/view?utm_content
 
 **5. CONCLUSIONES**
 
-Se puede concluir que un circuito eléctrico, puede ser muy complejo aun siendo, muy pequeño y de excasos componente eléctricos, debido a que al realizar mediciones o cálculos, se pueden medir la eficiencia de cada uno de ellos, calculando su porcentaje de error, y ver su comportamiento al aumentar y disminuir cada magnitud física.
+Con los conceptos más reforzados, se pudo conlcuir que los distintos tipos de errores que pueden exisitir, ya sea en los cálculos o medición física de los circuitos, depende, en el caso de los cálculos los decimales, o con que unidades se esté trabajando, en cambio en el caso de mediciones físicas, hay que tener en cuenta que los aparatos de medición cuentan con un tipo de resistencia, que esto hace que sea imposible tener una meedición exacta, sin embargo, su resistencia es mínima.
 
-Tambien algo importante, que tener en cuenta para no dañar los componentes eléctricos, es siempre verificar que potencia puede aguantar, es decir, si colocamos una potencia mayor a la potencia nominal que este componente tiene, se calentará en exceso, y se terminará dañanado, variando las unidades físicas del circuito, y no funcionanddo correctamente.
+Tambien se pudo concluir que, al tener estos conceptos básicos de los circuitos eléctricos se puede implementar cualquier mecanismo con estos principios, viendo como se comporta la corriente, la resistencia y sus derivados, para el amrado de proyectos, y analizando cuales son sus posibles resultados.
 
 **6. BIBLIOGRAFÍA**
+
+HEPTRO. (21 de Octubre de 2021). Obtenido de https://hetpro-store.com/TUTORIALES/ley-de-ohm/
 
 
 
