@@ -254,21 +254,35 @@ https://www.canva.com/design/DAFSlI3EjcQ/-AFhAdVWkgWAo6puVNvBvQ/view?utm_content
 
 **1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería**
 
+[![1.jpg](https://i.postimg.cc/Y2VhLRKz/1.jpg)](https://postimg.cc/pyf2gDdm)
+
 **3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble ca ra mostrada en la figura 6-66.**
+
+[![2.jpg](https://i.postimg.cc/pdqdWYJ8/2.jpg)](https://postimg.cc/jWnTvf9d)
 
 **SECCIÓN 6–2 VOLTAJE EN UN CIRCUITO EN PARALELO**
 
 **5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
 
+[![3.jpg](https://i.postimg.cc/MZh1JqTw/3.jpg)](https://postimg.cc/rzNDS6xZ)
+
 **7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
+
+[![4.jpg](https://i.postimg.cc/gk88YQXZ/4.jpg)](https://postimg.cc/Tp2p0kcd)
 
 **SECCIÓN 6–3 LEY DE LAS CORRIENTES DE KIRCHHOFF**
 
 **9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?**
 
+[![5.jpg](https://i.postimg.cc/PJZp5vxj/5.jpg)](https://postimg.cc/SYSNZsCT)
+
 **11. En el circuito de la figura 6-69, determine la resistencia en R2 , R3 y R4**
 
+[![6.jpg](https://i.postimg.cc/NjbyFcg5/6.jpg)](https://postimg.cc/5XY9KDQV)
+
 ** 13. La resistencia total de un circuito en paralelo es de 25ohms. ¿Cuál es la corriente a través de un resistor de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?**
+
+[![7.jpg](https://i.postimg.cc/v89c99YR/7.jpg)](https://postimg.cc/bdyyfZSL)
 
 **SECCIÓN 6–4 RESISTENCIA TOTAL EN PARALELO**
 
