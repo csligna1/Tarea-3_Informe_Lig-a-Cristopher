@@ -73,36 +73,62 @@ https://www.canva.com/design/DAFSlI3EjcQ/-AFhAdVWkgWAo6puVNvBvQ/view?utm_content
 
 **1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.**
 
+[![1.jpg](https://i.postimg.cc/wB4FLSVj/1.jpg)](https://postimg.cc/v19Wd2kJ)
+
 **3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.**
 
+[![2.jpg](https://i.postimg.cc/NGHb2CrQ/2.jpg)](https://postimg.cc/w39DSVVr)
+
 **5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.**
+
+[![3.jpg](https://i.postimg.cc/5NWgB5wL/3.jpg)](https://postimg.cc/jCvyK73S)
 
 **SECCIÓN 5–2 CORRIENTE EN UN CIRCUITO EN SERIE**
 
 **7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**
 
+[![Imagen4.jpg](https://i.postimg.cc/fRwvFwqb/Imagen4.jpg)](https://postimg.cc/8j0WfVS8)
+
 **9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.**
+
+[![Imagen5.jpg](https://i.postimg.cc/BvzcX2S8/Imagen5.jpg)](https://postimg.cc/Ny1rn9rY)
 
 **SECCIÓN 5–3 RESISTENCIA TOTAL EN SERIE**
 
+[![Imagen6.jpg](https://i.postimg.cc/jqPQSWG5/Imagen6.jpg)](https://postimg.cc/WtpJ94pL)
+
 **11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
+
+[![Imagen7.jpg](https://i.postimg.cc/pT88r7c7/Imagen7.jpg)](https://postimg.cc/qhJgZmTX)
 
 **13. ¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?**
 
+[![Imagen7.jpg](https://i.postimg.cc/pT88r7c7/Imagen7.jpg)](https://postimg.cc/qhJgZmTX)
+
 **15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?**
 
+[![Imagen8.jpg](https://i.postimg.cc/sgqvWmWR/Imagen8.jpg)](https://postimg.cc/mP3LfQVd)
+
 **17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie**
+
+[![Imagen9.jpg](https://i.postimg.cc/hvDjn3kV/Imagen9.jpg)](https://postimg.cc/phSxYkXd)
 
 **SECCIÓN 5–4 APLICACIÓN DE LA LEY DE OHM**
 
 **19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?**
+
+[![Imagen10.jpg](https://i.postimg.cc/vHmBSkLs/Imagen10.jpg)](https://postimg.cc/4nrsY8SL)
 
 **21. Se conectan tres resistores de 470 ohms en serie con una fuente de 48 V.**
 (a) ¿Cuál es la corriente en el circuito? 
 (b) ¿Cuál es el voltaje a través de cada resistor? 
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
 
+[![Imagen11.jpg](https://i.postimg.cc/pdKXFHxD/Imagen11.jpg)](https://postimg.cc/zLX1s4yB)
+
 **23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?**
+
+[![Imagen12.jpg](https://i.postimg.cc/zvGJ6Hhj/Imagen12.jpg)](https://postimg.cc/tZ8QVT2Z)
 
 **25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A**
 
