@@ -132,25 +132,43 @@ https://www.canva.com/design/DAFSlI3EjcQ/-AFhAdVWkgWAo6puVNvBvQ/view?utm_content
 
 **25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A**
 
+[![Imagen13.jpg](https://i.postimg.cc/0N19xBmr/Imagen13.jpg)](https://postimg.cc/zy7sFpx1)
+
 **SECCIÓN 5–5 FUENTES DE VOLTAJE EN SERIE**
+
+[![Imagen14.jpg](https://i.postimg.cc/nVSZMz7y/Imagen14.jpg)](https://postimg.cc/s1WbN3Tm)
 
 **27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?**
 
+[![Imagen15.jpg](https://i.postimg.cc/4NrgbSWw/Imagen15.jpg)](https://postimg.cc/SJ73mDFz)
+
 **29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.**
+
+[![Imagen16.jpg](https://i.postimg.cc/kgKdjvZC/Imagen16.jpg)](https://postimg.cc/CRht5kSr)
 
 **SECCIÓN 5–6 LEY DEL VOLTAJE DE KIRCHHOFF**
 
 **31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?**
 
+[![Imagen17.jpg](https://i.postimg.cc/KjR6tPLd/Imagen17.jpg)](https://postimg.cc/tnGvjVB5)
+
 **33. En el circuito de la figura 5-81, determine la resistencia de R4 .**
 
+[![Imagen18.jpg](https://i.postimg.cc/pr4gCmJy/Imagen18.jpg)](https://postimg.cc/64Vj55SN)
+
 **35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA**
+
+[![Imagen19.jpg](https://i.postimg.cc/Pr8GxMdD/Imagen19.jpg)](https://postimg.cc/mtRppCzZ)
 
 **SECCIÓN 5–7 DIVISORES DE VOLTAJE**
 
 **37. La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Æ que forma parte de la resistencia total en serie?**
 
+[![Imagen20.jpg](https://i.postimg.cc/wBgnw8L5/Imagen20.jpg)](https://postimg.cc/w14WBrW3)
+
 **39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a)**
+
+[![Imagen21.jpg](https://i.postimg.cc/Pxq9kW6P/Imagen21.jpg)](https://postimg.cc/d7z42ycY)
 
 **41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica**
 
